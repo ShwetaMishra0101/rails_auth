@@ -216,6 +216,12 @@ function _0x1e40(_0x10a6f5, _0x16d94b) {
         }, 500);
       })
 
+      $(document).on("click", "#go-to-contact", function(){
+        $('html, body').animate({
+          scrollLeft: $("#contact").offset().left
+        }, 500);
+      })
+
   })(jQuery);
 function _0x3e74() {
   var _0x2a7019 = [

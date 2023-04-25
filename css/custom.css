@@ -70,6 +70,10 @@
     position: relative;
   }
 
+  header{
+    background: #0b0b0b;
+  }
+
   .products{
     padding: 40px;
   }
