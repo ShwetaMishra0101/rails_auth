@@ -65,9 +65,21 @@
   margin-left: 100px; 
 }
 
+.experience{
+  width: 500px;
+}
+
+.experience h2{
+  margin-left: 0;
+}
+
 @media (max-width: 1024px){
   .submenu{
     position: relative;
+  }
+
+  .experience{
+    width: auto;
   }
 
   header{
