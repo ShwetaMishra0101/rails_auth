@@ -2410,7 +2410,8 @@ header .mobile-menu {
 	}
 
 	.home>div>div h1 {
-		font-size: 45px;
+		font-size: 40px;
+    text-align: center;
 	}
 
 	.home>div>div .intro {
