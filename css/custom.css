@@ -117,3 +117,16 @@
   font-size: 18px;
   letter-spacing: 2px;
 }
+
+.faq .accordion-item{
+  background-color: black;
+}
+
+.faq .accordion{
+  width: 500px;
+  margin-top: 25%;
+}
+
+.faq .accordion-button:not(.collapsed){
+  color: #fff;
+}
